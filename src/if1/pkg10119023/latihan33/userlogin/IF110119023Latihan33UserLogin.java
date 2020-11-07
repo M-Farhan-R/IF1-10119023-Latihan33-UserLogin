@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan33.userlogin;
  * NAMA              : Muhammad Farhan R 
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program : program login dengan username dan password
  *
  */
 import java.util.Scanner;
